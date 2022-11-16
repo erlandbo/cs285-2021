@@ -1,0 +1,15 @@
+numpy
+#gym==0.17.2
+gym
+mujoco-py
+tensorboard
+tensorboardX
+matplotlib
+ipython
+moviepy
+pyvirtualdisplay
+#torch==1.6.0
+#opencv-python==4.4.0.42
+opencv-python
+ipdb
+box2d-py
